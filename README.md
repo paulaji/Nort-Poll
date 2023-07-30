@@ -1,8 +1,10 @@
-<img src="Screenshot_1.png" alt="Screenshot 1">
-
 # Nort Poll - Discord Poll Conductor Bot
 
+<img src="Screenshot_5.png" alt="Screenshot 5">
+
 Nort Poll is a dynamic Discord bot specially crafted to conduct engaging polls within your Discord servers. With Nort Poll, you can create captivating polls effortlessly, complete with a title, a thought-provoking question, customizable options, and a convenient time limit for voting. Excite your community with lively discussions and make data-driven decisions with the help of Nort Poll!
+
+<img src="Screenshot_1.png" alt="Screenshot 1">
 
 ## Features
 
